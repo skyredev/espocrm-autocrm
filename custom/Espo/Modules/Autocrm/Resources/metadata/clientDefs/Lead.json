@@ -1,0 +1,14 @@
+{
+  "detailActionList": [
+    "__APPEND__",
+    {
+      "label": "Najít kontakty",
+      "name": "findContacts",
+      "acl": "edit",
+      "data": {
+        "handler": "autocrm:find-сontacts-handler",
+        "action": "findContacts"
+      }
+    }
+  ]
+}
